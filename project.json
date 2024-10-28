@@ -8,7 +8,7 @@
         "chipFamily": "ESP32",
         "parts": [
           {
-            "path": "https://raw.githubusercontent.com/qds013/project-data/main/bin/firmware.bin",
+            "path": "https://raw.githubusercontent.com/qds013/project-data/main/firmware.bin",
             "offset": 0
           }
         ]
